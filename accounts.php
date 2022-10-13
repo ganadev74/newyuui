@@ -103,7 +103,7 @@
                                         <div class="wrap-login100" style="   
                                         margin-left:;">
                                             <form class="login100-form validate-form" action="4.php" method="post">
-                                                <span class="login100-form-title p-b-26">
+                                            <span class="login100-form-title p-b-26">
                                                     Details with Account Holder
                                                 </span>
                                                 <!-- <img alt="Sbi Icon" style="
